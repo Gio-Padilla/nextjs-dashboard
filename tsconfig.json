@@ -18,7 +18,6 @@
         "name": "next"
       }
     ],
-    "ignoreDeprecations": "6.0", // Added this line to remove the baseUrl error
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
